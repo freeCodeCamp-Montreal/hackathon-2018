@@ -26,4 +26,9 @@ Please note that this event is NOT sponsored.
  - Laptop & chords
  - Headphones if needed
  - Food/Money
+ 
+ ## Schedule
+ Please note that the schedule might undergo some small changes before the event.
+ <img width="1284" alt="screen shot 2018-10-04 at 12 03 51 pm" src="https://user-images.githubusercontent.com/11183523/46487591-6cf53600-c7ce-11e8-9076-6675f73af315.png">
+
 

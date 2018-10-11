@@ -1,6 +1,9 @@
 # Hackathon Nov 3-4 2018
 Welcome! If you are interested in participating in the remote freeCodeCamp Hackathon at the Expedia's Montreal office, please read the following instructions.
 
+Facebook event: https://www.facebook.com/events/1356910134439874/
+Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg
+
 ## Requirements
 To be able to submit your project, it has to be a JAM stack web app, aka JavaScript, APIs, and Markup (HTML and CSS). Everything else is up to your imagination.
 

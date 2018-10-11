@@ -2,6 +2,7 @@
 Welcome! If you are interested in participating in the remote freeCodeCamp Hackathon at the Expedia's Montreal office, please read the following instructions.
 
 Facebook event: https://www.facebook.com/events/1356910134439874/
+
 Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg
 
 ## Requirements

@@ -27,7 +27,7 @@ Please note that this event is NOT sponsored.
 
 ## What you need to bring
  - Comfy clothes
- - Laptop & chords
+ - Laptop & cords
  - Headphones if needed
  - Food/Money
  

@@ -3,7 +3,7 @@ Welcome! If you are interested in participating in the remote freeCodeCamp Hacka
 
 Facebook event: https://www.facebook.com/events/1356910134439874/
 
-Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg
+~Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg~ **Sign Up is now over. Please contact an admin directly**
 
 ## Requirements
 To be able to submit your project, it has to be a JAM stack web app, aka JavaScript, APIs, and Markup (HTML and CSS). Everything else is up to your imagination.

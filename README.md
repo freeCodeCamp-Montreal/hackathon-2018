@@ -3,6 +3,8 @@ Welcome! If you are interested in participating in the remote freeCodeCamp Hacka
 
 Facebook event: https://www.facebook.com/events/1356910134439874/
 
+Official GitHub repo for the JamStack Hackathon: https://github.com/freeCodeCamp/2018-jamstack-hackathon/pull/2/files
+
 ~Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg~ **Sign Up is now over. Please contact an admin directly**
 
 ## Requirements
@@ -11,7 +13,7 @@ To be able to submit your project, it has to be a JAM stack web app, aka JavaScr
 **You also have to sign up for the online hackathon**: https://medium.freecodecamp.org/freecodecamp-is-hosting-a-free-hackathon-at-github-in-san-francisco-and-an-online-hackathon-too-2078088df278
 
 ## Online submission deadline
-**November 10th, 12:00AM** (formal instructions will be given if you're accepted to the hackathon linked above)
+Assumed **November 10th, 12:00AM** (formal instructions will be given if you're accepted to the hackathon linked above)
 
 ## Preparation for the event
 1. Set up your machine for development (follow linked instructions above). 

@@ -36,7 +36,8 @@ Please note that this event is NOT sponsored.
  
  ## Schedule
  Please note that the schedule might undergo some small changes before the event.
-<img width="1286" alt="screen shot 2018-10-19 at 12 02 19 pm" src="https://user-images.githubusercontent.com/11183523/47229960-0e67b480-d397-11e8-8202-eb7da77188e3.png">
+
+https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Schedule.md
 
 
 

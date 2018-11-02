@@ -1,11 +1,10 @@
 # Hackathon Nov 3-4 2018
 Welcome! This is the repo with instructions for the freeCodeCamp Hackathon at the Expedia's Montreal office, please read the following instructions.
 
-Facebook event: https://www.facebook.com/events/1356910134439874/
-
-Official GitHub repo for the JamStack Hackathon: https://github.com/freeCodeCamp/2018-jamstack-hackathon
-
-[Submit your project here (unnoficial)](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md)
+* [Discord link(mandatory to join for announcements)](https://discord.gg/WZB4AuS)
+* [Our Schedule for the event](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Schedule.md)
+* [Official GitHub repo for the JamStack Hackathon](https://github.com/freeCodeCamp/2018-jamstack-hackathon)
+* [Submit your project here (unofficial)](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md)
 
 ## Requirements
 To be at the Expedia location, you should have submitted a form before October 27.

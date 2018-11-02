@@ -5,7 +5,7 @@ Facebook event: https://www.facebook.com/events/1356910134439874/
 
 Official GitHub repo for the JamStack Hackathon: https://github.com/freeCodeCamp/2018-jamstack-hackathon
 
-[Submit your project here (unnoficial](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md)
+[Submit your project here (unnoficial)](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md)
 
 ## Requirements
 To be at the Expedia location, you should have submitted a form before October 27.
@@ -25,8 +25,8 @@ Assumed **November 4th, 21:00** (formal instructions will be given if you're acc
 ## What is provided
 Please note that this event is NOT sponsored.
  - Drinks
- - Snacks (nuts/veggies/sandwiches/etc)
- - Power chords
+ - Snacks (granola bars/sandwiches/etc)
+ - Power cords
  - Chairs, tables and rooms to code in
 
 ## What you need to bring

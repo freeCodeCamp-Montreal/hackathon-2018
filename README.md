@@ -1,19 +1,21 @@
 # Hackathon Nov 3-4 2018
-Welcome! If you are interested in participating in the remote freeCodeCamp Hackathon at the Expedia's Montreal office, please read the following instructions.
+Welcome! This is the repo with instructions for the freeCodeCamp Hackathon at the Expedia's Montreal office, please read the following instructions.
 
 Facebook event: https://www.facebook.com/events/1356910134439874/
 
-Official GitHub repo for the JamStack Hackathon: https://github.com/freeCodeCamp/2018-jamstack-hackathon/pull/2/files
+Official GitHub repo for the JamStack Hackathon: https://github.com/freeCodeCamp/2018-jamstack-hackathon
 
-~Sign up form: https://freecodecampmtl.typeform.com/to/FRsXMg~ **Sign Up is now over. Please contact an admin directly**
+[Submit your project here (unnoficial](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md)
 
 ## Requirements
+To be at the Expedia location, you should have submitted a form before October 27.
+
 To be able to submit your project, it has to be a JAM stack web app, aka JavaScript, APIs, and Markup (HTML and CSS). Everything else is up to your imagination.
 
-**You also have to sign up for the online hackathon**: https://medium.freecodecamp.org/freecodecamp-is-hosting-a-free-hackathon-at-github-in-san-francisco-and-an-online-hackathon-too-2078088df278
+**You also have to have signed up and accepted for the online hackathon to be elligible for official prizes and judging**: https://medium.freecodecamp.org/freecodecamp-is-hosting-a-free-hackathon-at-github-in-san-francisco-and-an-online-hackathon-too-2078088df278
 
 ## Online submission deadline
-Assumed **November 10th, 12:00AM** (formal instructions will be given if you're accepted to the hackathon linked above)
+Assumed **November 4th, 21:00** (formal instructions will be given if you're accepted to the hackathon linked above)
 
 ## Preparation for the event
 1. Set up your machine for development (follow linked instructions above). 

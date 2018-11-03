@@ -40,7 +40,6 @@ There will be one food break only as the day will end earlier, so bring supper i
 | 12:00-12:45 | Food break. Doors are held open and you can go out to grab some food if you didn&#39;t bring any. |
 | 12:45-18:00 | MORE HACKING 🔥👩‍💻👩‍💻👨‍💻🔥 |
 | 18:00 | STOP 🛑! Submit your projects [here](https://github.com/freeCodeCamp-Montreal/hackathon-2018/blob/master/Submissions.md). Have your demos/presentations ready. |
-| 18:00-18:30 | Mentors will select a few projects that will present to the entire group. <br> You may all vote for your favorite projects by starring them. |
-| 18:40-19:20 | Chosen projects present. Small announcements. |
-| 19:35-19:45 | THE END! Mingle between each other, clean up, go out, eat and celebrate. |
-| 20:00 | Everyone is out, doors close. |
+| 18:05-18:40 | Presentations, Judging and Feedback |
+| 18:40-19:30 | THE END! Mingle between each other, clean up, go out, eat and celebrate. |
+| 19:40 | Everyone is out, doors close. |

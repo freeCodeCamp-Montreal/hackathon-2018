@@ -13,6 +13,7 @@ Your project must have a README.md containing:
 | Project name | GitHub URL | Small Description (max 100 chars)|
 | -- | -- | --|
 | Example | https://github.com/freeCodeCamp-Montreal/hackathon-2018 | This is an example description that talks about what your project is about |
+| JAMsnack | https://github.com/kakcura/JAMsnack | A web app to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not. |
 | -- | -- | --|
 | -- | -- | --|
 | -- | -- | --|
